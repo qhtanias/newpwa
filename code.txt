@@ -1,0 +1,80 @@
+6:25 AM 11/8/2026
+
+npm install -g @angular/cli 
+ng --version
+npm install -g npm@12.2.2
+ng new DreamApp
+ng g c header
+ng g c header
+ng g c header
+npm install bootstrap
+ng build my-lib
+cd my-app
+ng generate library my-lib
+ng g library my-lib
+npm install -g @angular/cli
+ng test my-lib
+ng lint my-lib
+ng g c customerList
+ng g c custdetail
+ng g class customer
+ng serve
+ng g c myTask
+ng g c myTask --project=my-app
+ng new MultipleApps --createApplication="false"
+ng new MultipleApps --no-create-application
+ng generate application gettingStartedgit 
+ng add @angular/pwa
+npm install -g http-server@0.9.0
+ng build --prod
+cd dist/PWA-app
+http-server -o
+npm install -g http-server@0.9.0
+ng build 
+dist/App1
+npm install -g http-server
+npx http-server -o
+ng new PWA
+ng new angpwa
+
+npm install -g @angular/cli 
+ng --version
+npm install -g npm@12.2.2
+ng new DreamApp
+ng g c header
+npm install bootstrap
+ng build my-lib
+cd my-app
+ng generate library my-lib
+ng g library my-lib
+npm install -g @angular/cli
+ng test my-lib
+ng lint my-lib
+ng g c customerList
+ng g c custdetail
+ng g class customer
+ng serve
+ng g c myTask
+ng g c myTask --project=my-app
+ng new MultipleApps --createApplication="false"
+ng new MultipleApps --no-create-application
+ng generate application gettingStartedgit 
+ng add @angular/pwa
+npm install -g http-server@0.9.0
+ng build --prod
+cd dist/PWA-app
+http-server -o
+npm install -g http-server@0.9.0
+ng build 
+dist/App1
+npm install -g http-server
+npx http-server -o
+
+cd newpwa
+ng new newpwa
+ng add @angular/pwanpa
+npm install -g http-server@0.9.0
+ng buid 
+cd dist/newpwa
+http-server -o
+ng generate component component-name
